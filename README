@@ -1,4 +1,1 @@
 An OCamlDoc generator for JSON
-
-This does not seem to compile for OCaml 4 at the moment.
-
